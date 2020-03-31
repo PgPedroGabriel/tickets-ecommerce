@@ -26,11 +26,11 @@ Source code links:
 
 ### Sales microservices Context
 
-![bounded context](https://github.com/PgPedroGabriel/tickets-ecommerce/master/images/ddd1.png "Bounded context")
+![bounded context](/images/ddd1.png "Bounded context")
 
 ### Sales microservices Context Map
 
-![context map](https://github.com/PgPedroGabriel/tickets-ecommerce/master/images/ddd2.png "context map")
+![context map](/images/ddd2.png "context map")
 
 ### Sales microservies Context Architecture
 
