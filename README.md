@@ -1,11 +1,11 @@
-> This project is a study case of microservices comunication in a ecommerce context. This ecommerce sell's Tickets for events. The **code** of microservices projects are *distributed* on another repositories, cited in this text.
+> This project is a study case of microservices comunication in a e-commerce context. This e-commerce sell's Tickets of events. The **code** of microservices projects are distributed on **another repositories**, cited in this text.
 
 # tickets-ecommerce
 
 Source code links:
 
 - [Authentication microservice](https://github.com/PgPedroGabriel/auth-microservice)
-- [Events Tickets microservice](https://github.com/PgPedroGabriel/events-tickets-microservice)
+- [Events-Tickets microservice](https://github.com/PgPedroGabriel/events-tickets-microservice)
 - [Order microservice](https://github.com/PgPedroGabriel/order-microservice)
 - [Payment microservice](https://github.com/PgPedroGabriel/payment-worker-microservice)
 
