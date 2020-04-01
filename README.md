@@ -17,9 +17,12 @@ Source code links:
 - [x] Postgres
 - [x] RabbitMQ
 
+### Done implemetation for all microservices
+
+- [x] Use a alarm notification when errors occur using (Sentry)[[https://sentry.io/]]
+
 ### Pending implementations for all microservices
 
-- [ ] Use a alarm notification when errors occur
 - [ ] Docker structure for Google Cloud Platform - Cloud Build for first pipeline of CI
 - [ ] Use containers to deploy on Kubernets cluster on GCP
 
